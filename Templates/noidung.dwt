@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>apolo</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/mainstyle.css" type="text/css">
+<link rel="stylesheet" href="../css/thu vien luoi.css" type="text/css">
+<link rel="stylesheet" href="../css/hover.css" type="text/css">
+<link rel="stylesheet" href="../css/all.min.css" type="text/css">
+<link href="../img/Group_567.png" rel="shortcut icon" type="image/x-icon">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	
+	
+	<div id="myNav" class="overlay">
+	
+	<div class="wrap">
+		<div class="menupage">
+			<div class="header">
+			<a href="../index.html" class="logo"><img src="../img/logo.png" ></a>
+			<div class="menu icon">
+				<a class="none" href="#" style="font-size:1.7vw">Chính sách</a>
+				<a class="none" href="#" style="font-size:1.7vw">Thông báo</a>
+				<a href="#"><i class="fa fa-search" ></i></a> 
+				<a onclick="closeNav()"><i class="fa fa-times"></i></a>
+			</div>
+		</div>
+			<div class="container">
+				<section class="sec1">
+				<div class="row py-150">
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="../program.html" ><img src="../img/chuongtrinh.png"><br>CHƯƠNG TRÌNH</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lichsu.png"><br>LỊCH SỬ</a></div></div>
+					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/vé.png"><br>VÉ</a></div></div>
+					
+				</div>
+					<div class="row py-150">
+					<div class="col-2 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lich.png"><br>LỊCH</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/lienhe.png"><br>LIÊN HỆ</a></div></div>
+					<div class="col-5 col-s-4 hvr-grow-shadow"><div class="box1"><a href="#"><img src="../img/chungtoi.png"><br>VỀ CHÚNG TÔI</a></div></div>
+					
+				</div>
+			  </section>
+			</div>
+		</div>
+	  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-3 col-s-4 col-ss-10"><a href="../index.html"><img src="../img/logo1.png"></a>
+          <p>182 Trần Hưng Đạo, Phường 10, <br>
+            Quận Bình Thạnh,Thành Phố Hồ Chí Minh. 
+            Cơ quan văn hóa của 
+            Thành phố Hồ Chí Minh</p>
+        </div>
+        <div class="col-3  col-s-4 col-ss-10 mx-20">
+          <h3>DỊCH VỤ ĐỐI TƯỢNG</h3>
+          <p>[+84] 987 654 843, <br>
+            [+84] 987 654 856 
+            apollotheatre@gmail.com</p>
+        </div>
+        <div class="col-4 col-s-4 col-ss-10 mx-20">
+          <h3>BẢN TIN</h3>
+          <input class="email" type="email" placeholder="Your e-mail" name="email" >
+          <br>
+          <input class="checkbox " type="checkbox"  name="agree" value="none">
+          <label for="agree" style="font-size:14px">Tôi muốn nhận bản tin chứa thông tin về nhà hát</label>
+			
+        </div>
+		  <div class="col-2 col-s-4 col-ss-7 ">
+						<p class="d-flex justify-content-space-between icon">
+				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-twitter " ></i></a>
+ 				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-facebook-f " ></i></a>
+				<a href="#" class="hvr-grow-shadow"><i class="fab fa-instagram " ></i></a>
+				</p>
+				<p class="text-center mx-20" style="font-size:16px">Trang web của APOLLO</p></div>
+      </div>
+    </div>
+  </div>
+		
+	</div>
+	
+	
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="wrap"><!-- TemplateBeginEditable name="main" -->
+	  <main></main>
+	<!-- TemplateEndEditable -->
+	  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-3 col-s-4 col-ss-10"><a href="../index.html"><img src="../img/logo1.png"></a>
+          <p>182 Trần Hưng Đạo, Phường 10, <br>
+            Quận Bình Thạnh,Thành Phố Hồ Chí Minh. 
+            Cơ quan văn hóa của 
+            Thành phố Hồ Chí Minh</p>
+        </div>
+        <div class="col-3  col-s-4 col-ss-10 mx-20">
+          <h3>DỊCH VỤ ĐỐI TƯỢNG</h3>
+          <p>[+84] 987 654 843, <br>
+            [+84] 987 654 856 
+            apollotheatre@gmail.com</p>
+        </div>
+        <div class="col-4 col-s-4 col-ss-10 mx-20">
+          <h3>BẢN TIN</h3>
+          <input class="email" type="email" placeholder="Your e-mail" name="email" >
+          <br>
+          <input class="checkbox " type="checkbox"  name="agree" value="none">
+          <label for="agree" style="font-size:14px">Tôi muốn nhận bản tin chứa thông tin về nhà hát</label>
+			
+        </div>
+		  <div class="col-2 col-s-4 col-ss-7 ">
+						<p class="d-flex justify-content-space-between icon">
+				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-twitter " ></i></a>
+ 				 <a href="#" class="hvr-grow-shadow"><i class="fab fa-facebook-f " ></i></a>
+				<a href="#" class="hvr-grow-shadow"><i class="fab fa-instagram " ></i></a>
+				</p>
+				<p class="text-center mx-20" style="font-size:16px">Trang web của APOLLO</p></div>
+      </div>
+    </div>
+  </div>
+</div>
+	
+	
+	
+	
+<script>
+function openNav() {
+  document.getElementById("myNav").style.height = "100%";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.height = "0%";
+}
+</script>
+	
+	
+	
+	
+	
+	
+	
+	
+<script>
+       
+        function myFunction(id) {
+            document.getElementById(id).classList.toggle("show");
+        }
+        
+        var buttons = document.getElementsByClassName('dropbtn');
+       
+        var contents = document.getElementsByClassName('dropdown-content');
+        
+        for (var i = 0; i < buttons.length; i++) {
+            buttons[i].addEventListener("click", function(){
+             
+                var id = this.value;
+              
+                for (var i = 0; i < contents.length; i++) {
+                    contents[i].classList.remove("show");
+                }
+           
+                myFunction(id);
+            });
+        }
+       
+        window.addEventListener("click", function(){
+             if (!event.target.matches('.dropbtn')){
+                for (var i = 0; i < contents.length; i++) {
+                    contents[i].classList.remove("show");
+                }
+             }
+        });
+    </script>
+</body>
+</html>
